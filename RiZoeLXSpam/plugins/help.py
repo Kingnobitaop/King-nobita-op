@@ -6,7 +6,7 @@ from datetime import datetime
     
 HELP_PIC = "https://telegra.ph/file/9acc785291052c8f8998d.jpg"
 
-Riz_Help = "🔥 𝗥𝗜𝗭𝗢𝗘𝗟 𝗫 𝗦𝗣𝗔𝗠 🔥\n\n"
+Riz_Help = "🔥 𝐓𝐒𝐅 𝗫 𝗦𝗣𝗔𝗠 🔥\n\n"
  
 Riz_Help += f"__ᴄᴍᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ʀɪᴢᴏᴇʟ x sᴘᴀᴍ__\n\n"
 
@@ -38,7 +38,7 @@ async def help(event):
         Button.url("ᴀʟʟ ᴄᴍᴅs", "https://telegra.ph/%F0%9D%97%A5%F0%9D%97%9C%F0%9D%97%AD%F0%9D%97%A2%F0%9D%97%98%F0%9D%97%9F-%F0%9D%97%AB-%F0%9D%97%A6%F0%9D%97%A3%F0%9D%97%94%F0%9D%97%A0-11-28-2")
         ],
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/RiZoeLX")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/secret_citty")
         ] 
         ]
         )                                                         
