@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./resources/logo.jpg" alt="https://telegra.ph/file/53079566f34c74ea7a2bd.jpg">
+  
 </p>
 <h1 align="center">
   <b>TSF X SPAM</b>
@@ -7,7 +7,7 @@
 
 [![Forks](https://telegra.ph/file/53079566f34c74ea7a2bd.jpg)](https://github.com/MrRizoel/Spambot/fork)
 [![Python](https://img.shields.io/badge/Python-v3.9.7-blue)](https://www.python.org/)
-[![Open Source Love svg2](https://telegra.ph/file/53079566f34c74ea7a2bd.jpg)](https://github.com/MrRizoel/Spambot)   
+[![Open Source Love svg2]()](https://github.com/MrRizoel/Spambot)   
 ----
  
 - [x] ☯︎ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ ☯︎
