@@ -5,9 +5,9 @@
   <b>TSF X SPAM</b>
 </h1>
 
-[![Forks](https://img.shields.io/github/forks/MrRizoel/Spambot?style=flat-square&color=orange)](https://github.com/MrRizoel/Spambot/fork)
+[![Forks](https://telegra.ph/file/53079566f34c74ea7a2bd.jpg)](https://github.com/MrRizoel/Spambot/fork)
 [![Python](https://img.shields.io/badge/Python-v3.9.7-blue)](https://www.python.org/)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MrRizoel/Spambot)   
+[![Open Source Love svg2](https://telegra.ph/file/53079566f34c74ea7a2bd.jpg)](https://github.com/MrRizoel/Spambot)   
 ----
  
 - [x] ☯︎ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ ☯︎
@@ -24,8 +24,8 @@
 * [Support Group](https://t.me/secret_citty) 
 
 # Credits
-* [RiZoeL Creator](https://github.com/MrRizoel)
-* [Ustad-op](https://github.com/Ustad-Op)
-* [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
+* [Rapstar Creator](https://t.me/owner_of_tsf_rapstar)
+* [Rockstar](https://t.me/itz_rockstar
+* [Porn](https://pornhub.com/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
 
 
